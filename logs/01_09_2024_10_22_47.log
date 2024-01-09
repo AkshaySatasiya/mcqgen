@@ -1,0 +1,8 @@
+[2024-01-09 10:25:46,903] 952 openai._base_client -INFO - Retrying request to /chat/completions in 0.825384 seconds
+[2024-01-09 10:25:47,753] 952 openai._base_client -INFO - Retrying request to /chat/completions in 1.578520 seconds
+[2024-01-09 10:27:31,920] 1027 httpx -INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2024-01-09 10:27:34,713] 1027 httpx -INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2024-01-09 10:35:06,135] 952 openai._base_client -INFO - Retrying request to /chat/completions in 0.981332 seconds
+[2024-01-09 10:35:11,156] 952 openai._base_client -INFO - Retrying request to /chat/completions in 1.875956 seconds
+[2024-01-09 10:35:51,711] 1027 httpx -INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2024-01-09 10:35:54,499] 1027 httpx -INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
