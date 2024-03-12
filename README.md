@@ -61,29 +61,29 @@ streamlit run StreamlitAPP.py
 
 ## 📁 File Descriptions
 
-### StreamlitAPP.py:
+### 1. StreamlitAPP.py:
 
 - Main script containing the Streamlit application for the MCQ Generator.
 
-### mcqgenerator.py:
+### 2. mcqgenerator.py:
 
 - Script handling the generation and evaluation of MCQs using Langchain.
 
-### logger.py:
+### 3. logger.py:
 
 - Logging setup to record application events.
 
-### utils.py:
+### 4. utils.py:
 
 - Utility functions for reading files and extracting table data from the generated MCQs.
 
-### requirements.txt:
+### 5. requirements.txt:
 
 - List of required Python packages for the application.
 
 ## 📝 Logging
 
-- Application events are logged in the logs directory. Each log file is timestamped for easy reference.
+Application events are logged in the logs directory. Each log file is timestamped for easy reference.
 
 ## 🙌 Acknowledgments
 
